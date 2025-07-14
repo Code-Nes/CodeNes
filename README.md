@@ -14,7 +14,7 @@
 
 -☕ Powered by coffee and curiosity
 
-- 🛠️ Languages: Python, Htmll
+-🛠️ Languages: Python, Htmll
   
 > "“Coding my way through the unknown.”"
 
