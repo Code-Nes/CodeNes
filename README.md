@@ -6,12 +6,9 @@
 
 -📚 Always learning, always building — bringing my ideas to life.
 
-- ☕ Powered by coffee and curiosity
+-☕ Powered by coffee and curiosity
   
 
-### 🔧 Tech & Tools:
-- 📊 Coding: R, Python  
-- Pronouns: She
 
 - <!-- Geniş terminal havası: siyah zemin, yeşil yazı, esprili satırlar -->
 <p align="center">
