@@ -1,10 +1,11 @@
 # CodeNes
 
 ## 👋 Hello World!
-
-I'm all into Data Science with a passion for learning. I most enjoy *Data Visualizations* and *generative artwork*.
-
-Working with data is the 21st Century gold mining — there's so much out there waiting to be explored!
+### 🙋‍♀️ About Me:
+-🎓 CS student passionate about Software, AI, and Data Science.
+-📚 Always learning, always building — bringing my ideas to life.
+- ☕ Powered by coffee and curiosity
+  
 
 ### 🔧 Tech & Tools:
 - 📊 Coding: R, Python  
