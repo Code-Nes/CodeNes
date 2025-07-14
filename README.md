@@ -13,7 +13,7 @@
 
 -☕ Powered by coffee and curiosity
   
-> 💡 "In a world full of noise, I let the data speak."
+> "“Coding my way through the unknown.”"
 
 ---
 
