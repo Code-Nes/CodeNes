@@ -7,6 +7,7 @@
 
 
 ###👩‍💻 About Me:
+
 -🎓 CS student passionate about Software, AI, and Data Science.
 
 -📚 Always learning, always building — bringing my ideas to life.
