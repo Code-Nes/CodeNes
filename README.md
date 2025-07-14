@@ -6,7 +6,8 @@
 </p>
 
 
-### 🙋‍♀️ About Me:
+### <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/d14d621f-3cab-4fb9-887f-bc66ef22f934" />
+ About Me:
 -🎓 CS student passionate about Software, AI, and Data Science.
 
 -📚 Always learning, always building — bringing my ideas to life.
