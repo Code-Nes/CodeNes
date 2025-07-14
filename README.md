@@ -13,18 +13,10 @@
 -📚 Always learning, always building — bringing my ideas to life.
 
 -☕ Powered by coffee and curiosity
+
+- 🛠️ Languages: Python, Htmll
   
 > "“Coding my way through the unknown.”"
 
 ---
 
-### 🔧 Toolbox
-- 🧠 Fields: Data Science, Machine Learning, Creative Coding  
-- 🛠️ Languages: Python, R  
-- 🖼️ Interests: Visualizations, AI art, terminal aesthetics  
-- She
-
----
-
-### 📫 Let's Connect
-You can find me tinkering with code, sipping coffee, and pushing commits!
