@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=150&lines=Hello%2C+Git+Universe!;I+am+Nes+%F0%9F%92%BB;Code%2C+Visualize%2C+Repeat.;Welcome+to+my+terminal+playground." alt="Typing SVG" />
 </p>
 
-## 👋 welcome!
+
 ### 🙋‍♀️ About Me:
 -🎓 CS student passionate about Software, AI, and Data Science.
 
@@ -13,13 +13,6 @@
 
 -☕ Powered by coffee and curiosity
   
-
-
-## 👩‍💻 Who is Nes?
-
-Hey there! I'm Nes — a data enthusiast, code artist, and tech explorer.  
-With a passion for data visualization and generative art, I turn numbers into narratives.
-
 > 💡 "In a world full of noise, I let the data speak."
 
 ---
